@@ -36,4 +36,21 @@
 4. Bayer 
 5. Liverpool
 
+## Maxims goleixadors del món
+
+1. Cristiano Ronaldo
+2. Messi
+3. pele
+
+## Competicions
+- Champions
+- Lliga
+- Copa 
+- Supercopa de espanya
+
 ## Millor camp de futbol
+[Camp Nou]https://www.ginebro.cat 
+
+### Forma de camp de futbol
+![ Forma camp de futbol >]projectes\cortes-sise-examen-1r-grup\sin-título.jpg 
+
