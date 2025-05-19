@@ -26,3 +26,14 @@
 |cadet              |13 a 15 anys 
 |Juvenil            |15 a 19 anys
 |1r equip           |+19 anys
+
+### Millors equips de Futbol
+**opinó propia**
+
+1. Barça
+2. Madrid
+3. Milan 
+4. Bayer 
+5. Liverpool
+
+## Millor camp de futbol
